@@ -9,4 +9,8 @@ public class Tervehdys {
     public static void tervehdysMaailmalle() {
         System.out.println("Hello World from Git!");
     }
+    
+    public static void naytaPaivamaara() {
+        System.out.println("Tänään on hyvä päivä oppia Gittiä!");
+    }
 }
