@@ -4,6 +4,7 @@ public class Tervehdys {
         System.out.println("Tämä on opettajan esimerkkiprojekti.");
         
         tervehdysMaailmalle();
+        naytaPaivamaara();
     }
     
     public static void tervehdysMaailmalle() {
