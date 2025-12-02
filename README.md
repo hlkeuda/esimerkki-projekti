@@ -28,5 +28,5 @@ Tämä projekti on tarkoitettu harjoitteluun:
 ## Opettajalle
 
 Voit päivittää tätä projektia harjoituksen aikana, jotta opiskelijat voivat harjoitella `git pull` -komentoa.
-Lisäsin tämän testiksi
+
 
