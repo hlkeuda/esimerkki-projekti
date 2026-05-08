@@ -1,6 +1,6 @@
 # Esimerkki-projekti
 
-Tämä on yksinkertainen Java-projekti Git-harjoituksia varten. Ja editoin sitä nyt hieman
+Tämä on yksinkertainen Java-projekti Git-harjoituksia varten. Ja editoin sitä nyt hieman. Ja editoin vielä lisää
 
 ## Sisältö
 
